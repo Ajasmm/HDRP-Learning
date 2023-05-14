@@ -92,10 +92,14 @@ MonoBehaviour:
   supportRuntimeDebugDisplay: 0
   autoRegisterDiffusionProfiles: 1
   apvScenesData:
-    serializedBounds: []
+    serializedBounds:
+    - sceneGUID: 9fc0d4010bbf28b4594072e72b8655ab
+      bounds:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 27, y: 27, z: 27}
     serializedHasVolumes:
     - sceneGUID: 9fc0d4010bbf28b4594072e72b8655ab
-      hasProbeVolumes: 0
+      hasProbeVolumes: 1
     serializedProfiles:
     - sceneGUID: 9fc0d4010bbf28b4594072e72b8655ab
       profile: {fileID: 11400000, guid: 0de73e4435efe9a46bae3d8c16a9f356, type: 2}
